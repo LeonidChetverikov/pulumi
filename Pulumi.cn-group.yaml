@@ -1,0 +1,7 @@
+config:
+  aks-hello-world:location: francecentral
+  aks-hello-world:password:
+    secure: AAABAFDqCIBgnnJSAo2M4n7AclHRw++SgpvnBk1cn4P51xhsXWM=
+  aks-hello-world:prefix: cn-group
+  aks-hello-world:sshkey: ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQCwTrns/NAqgcCujnGJO0orXCXErfP/x7l7XV/AnBR+9Guwz7UpUVkZMkyrkI9wztcB6BqHyj2NGR51/zRvThsi4IPUtLi5e3JGuujb+dh6vBZzM2Mmz9qvmtQ7hxkrBNpwgUEP8QPswTAojCKCkEH+mIJCTSC3yWyWLHCHYc3vT1plc6/FCbeiVE6CGQ/6+atCG2uxuCLVL9eysZlWgPbhWJlpb1Vd8QaN1TonX9TGtwdpOiU3Z4T4qokHCz1x993SarnsIHdeDz5pHFo2KPHidBJP8mhKSm8MW7Mdoyue7UG5i3ITGx0caSrVy9On+CDQMcj1VsnpbIt+7/ZgPa8zQPigs93WZawiILjkyJzg8vIQMV9c3ONY8p6pCbr4UcoIaA/K9qft7pM0Hu0I7f/CqOZ+3D1bvGJxJjmZA1G6pZ1X7qf6HFm5WDJvYuGPE9P9xiFiBpVUxtOMWXK5fJsxqkVVyl+UVYMD0OaUx+yzcitHpbnkCiYsEN+0imVpVWk=
+    leonidchetverikov@MacBook-Pro-Leonid-4.local
